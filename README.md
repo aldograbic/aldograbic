@@ -1,5 +1,5 @@
 <h1 align="center">Bok 👋, ja sam Aldo</h1>
-<h3 align="center">Full stack web developer iz Hrvatske</h3>
+<h3 align="center">Developer iz Hrvatske</h3>
 
 Ja sam developer s diplomom magistra inženjerstva informacijskih tehnologija. Imam iskustva u radu s raznim tehnologijama i programskim jezicima, a posebno uživam u razvoju web i softverskih rješenja. Moje strasti uključuju stvaranje intuitivnih korisničkih sučelja, optimizaciju performansi aplikacija i implementaciju inovativnih funkcionalnosti.
 
