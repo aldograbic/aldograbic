@@ -1,9 +1,9 @@
 <h1 align="center">Bok 👋, ja sam Aldo</h1>
 <h3 align="center">Full stack web developer iz Hrvatske</h3>
 
-Ja sam full stack developer s diplomom magistra inženjerstva informacijskih tehnologija. Imam iskustva u radu s raznim tehnologijama i programskim jezicima, a posebno uživam u razvoju web i softverskih rješenja. Moje strasti uključuju stvaranje intuitivnih korisničkih sučelja, optimizaciju performansi aplikacija i implementaciju inovativnih funkcionalnosti.
+Ja sam developer s diplomom magistra inženjerstva informacijskih tehnologija. Imam iskustva u radu s raznim tehnologijama i programskim jezicima, a posebno uživam u razvoju web i softverskih rješenja. Moje strasti uključuju stvaranje intuitivnih korisničkih sučelja, optimizaciju performansi aplikacija i implementaciju inovativnih funkcionalnosti.
 
-Volim raditi na vlastitim projektima koji izazivaju moju kreativnost i tehnološke vještine. Trenutno razvijam nekoliko zanimljivih rješenja, a uz njih, neke WordPress projekte možete pronaći na [algo-solutions.net](https://algo-solutions.net). Uz to, uvijek sam u potrazi za novim znanjem i iskustvima u industriji.
+Volim raditi na vlastitim projektima koji izazivaju moju kreativnost i tehnološke vještine. Uz to, uvijek sam u potrazi za novim znanjem i iskustvima u industriji.
 
 <h3>📫 Možete me kontaktirati putem:</h3>
 <a href="mailto:aldo.grabic99@gmail.com" target="blank">aldo.grabic99@gmail.com</a> i 
